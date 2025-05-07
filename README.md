@@ -1,4 +1,4 @@
-Claro, aquí tienes un `README.md` detallado que te guía paso a paso para ejecutar tu proyecto Flask con llamadas RPC usando RabbitMQ (en Docker) y exponerlo con Ngrok:
+
 
 ---
 
@@ -10,7 +10,7 @@ Este proyecto demuestra cómo usar **Flask** con llamadas **RPC asíncronas** a 
 
 ## 📦 Requisitos
 
-* Python 3.x
+* Python 
 * Docker (para correr RabbitMQ)
 * Ngrok (para exponer localmente tu app)
 * Git (opcional)
