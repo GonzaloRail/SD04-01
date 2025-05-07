@@ -116,13 +116,4 @@ Al enviar, Flask lo envía al servidor RPC, y te muestra la respuesta.
 └── README.md            # Guía de instalación y ejecución
 ```
 
----
 
-## 🧹 Notas
-
-* No uses `Flask` en modo `debug` para producción real.
-* Este ejemplo es educativo y no incluye manejo de errores avanzado ni seguridad.
-
----
-
-¿Quieres que este README incluya también capturas de pantalla o comandos para despliegue en servicios como Render o Railway?
